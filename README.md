@@ -58,7 +58,7 @@ result after using appconfigloader:
 # Usage
 
 ```python
-from appconfigloader import ConfigLoader
+from pyconfigloader import ConfigLoader
 
 class MyAppConfigLoader(ConfigLoader):
     def __init__(self, config_path):
